@@ -414,9 +414,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-predicting-high-risk-borrowers",
-          title: 'Predicting High Risk Borrowers',
-          description: "Project description",
+            },},{id: "projects-my-project",
+          title: 'My Project',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
