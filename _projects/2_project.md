@@ -59,21 +59,4 @@ This project applies machine learning techniques to predict high-risk borrowers 
 
 ---
 
-## Resources
 
-<div class="row mt-3">
-  <div class="col-sm-6">
-    <h3>📄 Documentation</h3>
-    <ul>
-      <li><a href="https://resonant-helium.notion.site/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e" target="_blank">View in Notion</a></li>
-      <li><a href="#">Technical Report (PDF)</a></li>
-    </ul>
-  </div>
-  <div class="col-sm-6">
-    <h3>💻 Code & Data</h3>
-    <ul>
-      <li><a href="#">GitHub Repository</a></li>
-      <li><a href="#">Dataset (Kaggle)</a></li>
-    </ul>
-  </div>
-</div>
