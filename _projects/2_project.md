@@ -8,16 +8,7 @@ category: work
 related_publications: false
 ---
 
-## Project Overview
 
-This project applies machine learning techniques to predict high-risk borrowers in credit lending.
-
-### Key Objectives
-- Develop predictive models for credit risk assessment
-- Identify key factors influencing borrower default
-- Optimize lending decisions to minimize risk
-
----
 
 ## 📊 Complete Documentation
 
