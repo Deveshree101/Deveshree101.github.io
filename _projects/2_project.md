@@ -12,7 +12,7 @@ This project documentation is maintained in Notion for easy collaboration and up
 
 <div class="notion-embed-container" style="margin: 2rem 0;">
   <iframe 
-    src="https://www.notion.so/resonant-helium/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e?embed=true" 
+    src="https://resonant-helium.notion.site/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e?embed=true" 
     style="width: 100%; height: 90vh; min-height: 800px; border: 1px solid #e1e4e8; border-radius: 8px;"
     frameborder="0"
     allowfullscreen>
