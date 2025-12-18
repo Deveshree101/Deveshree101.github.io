@@ -1,46 +1,79 @@
 ---
 layout: page
 title: Predicting High-Risk Borrowers
-description: Machine Learning Credit Risk Analysis
-img: assets/img/12.jpg
+description: Machine Learning for Credit Risk Analysis
+img: assets/img/credit-risk-thumb.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ## Project Overview
 
-This project focuses on predicting high-risk borrowers using machine learning techniques.
+This project applies machine learning techniques to predict high-risk borrowers in credit lending.
 
-<div class="notion-embed-container" style="margin: 2rem 0;">
-  <iframe 
-    src="https://www.notion.so/resonant-helium/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e?embed=true" 
-    style="width: 100%; height: 90vh; min-height: 800px; border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+### Key Objectives
+- Develop predictive models for credit risk assessment
+- Identify key factors influencing borrower default
+- Optimize lending decisions to minimize risk
+
+---
+
+## 📊 Complete Documentation
+
+<style>
+  .notion-responsive {
+    position: relative;
+    width: 100%;
+    padding-bottom: 75%; /* 4:3 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin: 2rem 0;
+  }
+  
+  .notion-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  
+  @media (max-width: 768px) {
+    .notion-responsive {
+      padding-bottom: 100%; /* Taller on mobile */
+    }
+  }
+</style>
+
+<div class="notion-responsive">
+  <iframe src="https://9jmvgxq2vpp7vmx.embednotionpage.com/"></iframe>
 </div>
 
-<div class="caption">
-  Complete project documentation including methodology, analysis, and results.
+<div class="caption" style="text-align: center;">
+  Interactive project documentation with full analysis and visualizations
 </div>
 
 ---
 
-[View Full Documentation in Notion →](https://www.notion.so/resonant-helium/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e)
-```
+## Resources
 
-## Important: Make Sure It's Public!
-
-Before this works, verify your Notion page is publicly shared:
-
-1. Open the page in Notion
-2. Click **"Share"** (top right)
-3. Make sure **"Share to web"** is **ON** (toggled)
-4. You should see "Published to web" status
-
-## Test It First
-
-Paste this URL in your browser to test:
-```
-https://www.notion.so/resonant-helium/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e
+<div class="row mt-3">
+  <div class="col-sm-6">
+    <h3>📄 Documentation</h3>
+    <ul>
+      <li><a href="https://resonant-helium.notion.site/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e" target="_blank">View in Notion</a></li>
+      <li><a href="#">Technical Report (PDF)</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-6">
+    <h3>💻 Code & Data</h3>
+    <ul>
+      <li><a href="#">GitHub Repository</a></li>
+      <li><a href="#">Dataset (Kaggle)</a></li>
+    </ul>
+  </div>
+</div>
