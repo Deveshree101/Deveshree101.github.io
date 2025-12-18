@@ -414,9 +414,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "with background image",
+            },},{id: "projects-predicting-high-risk-borrowers",
+          title: 'Predicting High-Risk Borrowers',
+          description: "Machine Learning Credit Risk Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
