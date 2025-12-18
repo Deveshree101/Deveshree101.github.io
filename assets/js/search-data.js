@@ -416,7 +416,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-predicting-high-risk-borrowers",
           title: 'Predicting High-Risk Borrowers',
-          description: "Machine Learning Credit Risk Analysis",
+          description: "Machine Learning for Credit Risk Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
