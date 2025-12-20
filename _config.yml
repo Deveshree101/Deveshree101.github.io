@@ -193,7 +193,6 @@ exclude:
   - readme_preview/
   - vendor
 keep_files:
-  
   - .nojekyll
 
 # Plug-ins
