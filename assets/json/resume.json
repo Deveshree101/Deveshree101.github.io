@@ -1,10 +1,10 @@
 {
-  "basics": {
-    "name": "Devesshree Shrivastava",
+  "Info": {
+    "name": "Deveshree Shrivastava",
     "profession": "Data Analyst",
     "image": "",
     "email": "deveshreeshrivastava2@gmail.com",
-    "phone": <!--"(912) 123-4567",-->
+   <!-- "phone": "(912) 123-4567",-->
     "url": "https://deveshree101.github.io/",
     "summary": "Data-driven professional with expertise in SQL, ETL and business intelligence. Skilled in data analysis, reporting, and dashboarding to improve processes and drive decisions.",
     "location": {
@@ -22,16 +22,30 @@
       }
     ]
   },
-  "work": [
+  "work experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Freelance",
+      "position": "Data Analyst",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "summary": "• Collaborated with clients to address business challenges through data-driven solutions.  
+• Cleaned and structured raw datasets, ensuring data integrity and accuracy for analysis.  
+• Developed dashboards and conducted exploratory analysis to enhance reporting efficiency.  
+• Automated manual processes to support strategic decision-making across various sectors.",
+      "highlights": ["SQL","Microsoft Excel","PowerBI","Python"]
     }
+    {
+      "name": "Blockseed",
+      "position": "Business Analyst",
+      "url": "https://example.com",
+      "startDate": "2023-03",
+      "endDate": "2023-08",
+      "summary": "• Analyzed financial data for 10+ startup clients, identifying key trends in revenue, expenses, and profitability, which led to actionable insights that helped optimize financial strategies.
+● Conducted market research and competitor analysis for 5+ finance-sector startups, identifying trends and strategies that improved client market positioning and contributed to a 15% increase in competitive advantage.
+● Supported the creation of investor-ready pitch decks, streamlining core narratives, market sizing, and financial highlights, leading to a 30% average increase in successful funding outcomes for clients within the early-stage startup sector, helping them secure necessary capital for business growth..",
+      "highlights": ["Business Analytics","Market Research","KPI Reporting","SQL"]
+   }
   ],
   "volunteer": [
     {
