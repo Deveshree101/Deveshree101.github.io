@@ -19,14 +19,14 @@
         - Cleaned and structured raw datasets, ensuring data integrity and accuracy for analysis.
         - Developed dashboards and conducted exploratory analysis to enhance reporting efficiency.
     - title: Business Analyst
-      institution: Blockseed
+      institution: <a href="https://www.blockseed.co/home">Blockseed</a>
       year: Mar'23-Aug'23
       description:
         - Analyzed financial data for 10+ startup clients, identifying key trends in revenue, expenses, and profitability, which led to actionable insights that helped optimize financial strategies.
         - Conducted market research and competitor analysis for 5+ finance-sector startups, identifying trends and strategies that improved client market positioning and contributed to a 15% increase in competitive advantage.
         - Supported the creation of investor-ready pitch decks, streamlining core narratives, market sizing, and financial highlights, leading to a 30% average increase in successful funding outcomes for clients within the early-stage startup sector, helping them secure necessary capital for business growth.
     - title: Programmer Analyst
-      institution: Cognizant Technology Solutions
+      institution: <a href="https://www.cognizant.com/us/en/about-cognizant">Cognizant Technology Solutions</a>
       year: Sept'21- Jun'22
       description:
         - Assisted in ETL development and debugging for data migration in a pharmaceutical cloud project, modifying and enhancing 200+ workflows to ensure efficient data transfer and processing through Informatica PowerCenter.
@@ -34,7 +34,7 @@
         - Developed and optimized complex SQL queries for data cleansing and analysis, identifying and resolving over 200K data quality issues, ensuring 99.9% data accuracy.
 
     - title: Data Analyst Intern 
-      institution: Volvo Eicher Commercial Vehicles 
+      institution: <a href="https://www.vecv.in/">Volvo Eicher Commercial Vehicles</a>
       year: May 2019- July 2019
       description: 
         - Conducted a comprehensive time study of the ET35S5 transmission model to identify process bottlenecks. 
@@ -44,7 +44,7 @@
   type: time_table
   contents:
     - title: B.Tech
-      institution: Shri G.S. Institute of Technology and Science, Indore
+      institution: <a href="https://www.sgsits.ac.in/">Shri G.S Institute of Technology and Science, Indore</a>
       year: 2017-2021
 
 
