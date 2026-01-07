@@ -8,90 +8,64 @@
     - name: Overview
       value: Data-driven professional with expertise in SQL, ETL and business intelligence. Skilled in data analysis, reporting, and dashboarding to improve processes and drive decisions.
 
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Data Analyst
+      institution: Freelance
+      year: Sept 2023 - Present
+      description:
+        - Collaborated with clients to address business challenges through data-driven solutions.
+        - Cleaned and structured raw datasets, ensuring data integrity and accuracy for analysis.
+        - Developed dashboards and conducted exploratory analysis to enhance reporting efficiency.
+    - title: Business Analyst
+      institution: Blockseed
+      year: Mar 2023-Aug 2023
+      description:
+        - Analyzed financial data for 10+ startup clients, identifying key trends in revenue, expenses, and profitability, which led to actionable insights that helped optimize financial strategies.
+        - Conducted market research and competitor analysis for 5+ finance-sector startups, identifying trends and strategies that improved client market positioning and contributed to a 15% increase in competitive advantage.
+        - Supported the creation of investor-ready pitch decks, streamlining core narratives, market sizing, and financial highlights, leading to a 30% average increase in successful funding outcomes for clients within the early-stage startup sector, helping them secure necessary capital for business growth.
+    - title: Programmer Analyst
+      institution: Cognizant Technology Solutions
+      year: Sept 2021- Jun 2022
+      description:
+        - Assisted in ETL development and debugging for data migration in a pharmaceutical cloud project, modifying and enhancing 200+ workflows to ensure efficient data transfer and processing through Informatica PowerCenter.
+        - Performed data validation of migrated data, ensuring accuracy through profiling, integrity checks, and transformation tasks on 300K+ records daily.
+        - Developed and optimized complex SQL queries for data cleansing and analysis, identifying and resolving over 200K data quality issues, ensuring 99.9% data accuracy.
+
+    - title: Data Analyst Intern 
+      institution: Volvo Eicher Commercial Vehicles 
+      year: May 2019- July 2019
+      description: 
+        - Conducted a comprehensive time study of the ET35S5 transmission model to identify process bottlenecks. 
+        -  Utilized advanced data analysis techniques to enhance operational efficiency. 
+
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.Tech
+      institution: Shri G.S. Institute of Technology and Science, Indore
+      year: 2017-2021
 
-- title: Experience
+
+- title: Projects
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: <a href=https://resonant-helium.notion.site/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e>
+      description: The goal of this project is to predict whether a low-income borrower is likely to repay a loan or not. By studying patterns in income, expenditure, and past repayments, the project aims to help lenders make fair and confident loan decisions.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - SQL, Python
+    - title: Technologies
       items:
-        - Description 1.
-        - Description 2.
+        - Data Warehousing, Business Intelligence, Data Transformation
+    - title: Tools
+      items:
+        - MySQL, Informatica PowerCenter, Power BI, Excel (Pivot Tables, VLOOKUP, Basic Macros), Jupyter Notebook
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
