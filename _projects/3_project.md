@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Predicting High Risk Borrowers
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://resonant-helium.notion.site/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e
