@@ -29,10 +29,10 @@
       "url": "https://example.com",
       "startDate": "2023-09",
       "endDate": "Present",
-      "summary": "• Collaborated with clients to address business challenges through data-driven solutions.  
-• Cleaned and structured raw datasets, ensuring data integrity and accuracy for analysis.  
-• Developed dashboards and conducted exploratory analysis to enhance reporting efficiency.  
-• Automated manual processes to support strategic decision-making across various sectors.",
+      "summary": " Collaborated with clients to address business challenges through data-driven solutions.",
+                 "Cleaned and structured raw datasets, ensuring data integrity and accuracy for analysis.", 
+                 "Developed dashboards and conducted exploratory analysis to enhance reporting efficiency",
+                 "Automated manual processes to support strategic decision-making across various sectors."
       "highlights": ["SQL","Microsoft Excel","Power BI","Python"]
     }
     {
