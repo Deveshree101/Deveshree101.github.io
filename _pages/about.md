@@ -26,4 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Heyaaaaaa, Deveshree this side.
+I'm  Deveshree, a Data Analyst who transforms raw data into clarity that moves people to action. I've worked across different environments, from established organizations to early-stage startups. From defining what to measure, through complex data analysis, to impactful visualizations, I support the entire process to enable evidence-driven decisions. On this website I showcase some of my projects, blogs and CV. You can contact me for any work related collaborations.
+Thanks for visiting my website!
+
