@@ -1,12 +1,12 @@
-- title: General Information
+- title: Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Deveshree Shrivastava
+    - name: Email ID
+      value: deveshreeshrivastava2@gmail.com
+    - name: Overview
+      value: Data-driven professional with expertise in SQL, ETL and business intelligence. Skilled in data analysis, reporting, and dashboarding to improve processes and drive decisions.
 
 - title: Education
   type: time_table
