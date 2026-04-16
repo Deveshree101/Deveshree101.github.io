@@ -1,9 +1,6 @@
-# al-folio
+# My Portfolio
 
-<div align="center">
-
-[![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
-
-**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
+## Credits
+Built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme by Maruan Al-Shedivat, licensed under MIT.
 
 ---
