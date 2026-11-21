@@ -51,6 +51,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/a_thousand_splendid_suns/";
+            },},{id: "books-algorithms-to-live-by",
+          title: 'Algorithms to Live By',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/algorithms_to_live_by/";
             },},{id: "books-the-almanack-of-naval-ravikant",
           title: 'The Almanack of Naval Ravikant',
           description: "",
@@ -61,16 +66,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/atomic_habits/";
+            },},{id: "books-babel",
+          title: 'Babel',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/babel/";
+            },},{id: "books-becoming",
+          title: 'Becoming',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/becoming/";
             },},{id: "books-born-a-crime",
           title: 'Born a Crime',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/born_a_crime/";
+            },},{id: "books-capital-in-the-twenty-first-century",
+          title: 'Capital in the Twenty-First Century',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/capital_in_the_twenty_first_century/";
             },},{id: "books-days-at-the-morisaki-bookshop",
           title: 'Days at the Morisaki Bookshop',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/days_at_the_morisaki_bookshop/";
+            },},{id: "books-debt-the-first-5-000-years",
+          title: 'Debt: The First 5,000 Years',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/debt/";
             },},{id: "books-deep-work",
           title: 'Deep Work',
           description: "",
@@ -86,6 +111,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/genghis_khan/";
+            },},{id: "books-how-to-read-a-book",
+          title: 'How to Read a Book',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/how_to_read_a_book/";
             },},{id: "books-mindfulness-essentials-how-to-sit-how-to-walk-how-to-love",
           title: 'Mindfulness Essentials (How to Sit, How to Walk, How to Love…)',
           description: "",
@@ -111,6 +141,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/lifespan/";
+            },},{id: "books-light-on-prāṇāyāma",
+          title: 'Light on Prāṇāyāma',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/light_on_pranayama/";
             },},{id: "books-light-on-yoga",
           title: 'Light on Yoga',
           description: "",
@@ -131,16 +166,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mindset/";
+            },},{id: "books-money-a-story-of-humanity",
+          title: 'Money: A Story of Humanity',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/money/";
+            },},{id: "books-my-inventions-the-autobiography-of-nikola-tesla",
+          title: 'My Inventions: The Autobiography of Nikola Tesla',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/my_inventions_nikola_tesla/";
             },},{id: "books-never-split-the-difference",
           title: 'Never Split the Difference',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/never_split_the_difference/";
+            },},{id: "books-no-limits-blow-the-cap-off-your-capacity",
+          title: 'No Limits: Blow the CAP Off Your Capacity',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/no_limits/";
             },},{id: "books-on-the-shortness-of-life",
           title: 'On the Shortness of Life',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/on_the_shortness_of_life/";
+            },},{id: "books-on-writing-well",
+          title: 'On Writing Well',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/on_writing_well/";
             },},{id: "books-perfect-health",
           title: 'Perfect Health',
           description: "",
@@ -171,6 +226,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ten_judgements_that_changed_india/";
+            },},{id: "books-the-beginning-of-infinity",
+          title: 'The Beginning of Infinity',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_beginning_of_infinity/";
             },},{id: "books-the-black-swan",
           title: 'The Black Swan',
           description: "",
@@ -181,6 +241,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_book_of_clarity/";
+            },},{id: "books-the-book-of-why",
+          title: 'The Book of Why',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_book_of_why/";
             },},{id: "books-the-discovery-of-india",
           title: 'The Discovery of India',
           description: "",
@@ -196,6 +261,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_palace_of_illusions/";
+            },},{id: "books-the-story-of-philosophy",
+          title: 'The Story of Philosophy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_story_of_philosophy/";
+            },},{id: "books-the-wealth-of-nations",
+          title: 'The Wealth of Nations',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_wealth_of_nations/";
+            },},{id: "books-think-like-a-monk",
+          title: 'Think Like a Monk',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/think_like_a_monk/";
             },},{id: "books-thinking-fast-and-slow",
           title: 'Thinking, Fast and Slow',
           description: "",
@@ -211,6 +291,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/tuesdays_with_morrie/";
+            },},{id: "books-the-vedas-and-upanishads-for-children",
+          title: 'The Vedas and Upanishads for Children',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vedas_and_upanishads/";
+            },},{id: "books-why-nations-fail",
+          title: 'Why Nations Fail',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/why_nations_fail/";
+            },},{id: "books-zen-and-the-art-of-motorcycle-maintenance",
+          title: 'Zen and the Art of Motorcycle Maintenance',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/zen_and_the_art_of_motorcycle_maintenance/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
