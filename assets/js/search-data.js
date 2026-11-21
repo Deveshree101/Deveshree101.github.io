@@ -41,16 +41,141 @@ ninja.data = [{
             window.location.href = "/blog/2026/three-data-bugs-nifty50/";
           
         },
-      },{id: "books-atomic-habits",
+      },{id: "books-a-thousand-splendid-suns",
+          title: 'A Thousand Splendid Suns',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_thousand_splendid_suns/";
+            },},{id: "books-the-almanack-of-naval-ravikant",
+          title: 'The Almanack of Naval Ravikant',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/almanack_of_naval_ravikant/";
+            },},{id: "books-atomic-habits",
           title: 'Atomic Habits',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Atomic_Habits/";
-            },},{id: "books-thinking-fast-and-slow",
-          title: 'Thinking Fast, and Slow',
+              window.location.href = "/books/atomic_habits/";
+            },},{id: "books-born-a-crime",
+          title: 'Born a Crime',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/born_a_crime/";
+            },},{id: "books-days-at-the-morisaki-bookshop",
+          title: 'Days at the Morisaki Bookshop',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/days_at_the_morisaki_bookshop/";
+            },},{id: "books-deep-work",
+          title: 'Deep Work',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/deep_work/";
+            },},{id: "books-dopamine-nation",
+          title: 'Dopamine Nation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dopamine_nation/";
+            },},{id: "books-mindfulness-essentials-how-to-sit-how-to-walk-how-to-love",
+          title: 'Mindfulness Essentials (How to Sit, How to Walk, How to Love…)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/how_to_series/";
+            },},{id: "books-ikigai",
+          title: 'Ikigai',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ikigai/";
+            },},{id: "books-indistractable",
+          title: 'Indistractable',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/indistractable/";
+            },},{id: "books-invent-and-wander",
+          title: 'Invent and Wander',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/invent_and_wander/";
+            },},{id: "books-lifespan",
+          title: 'Lifespan',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lifespan/";
+            },},{id: "books-the-little-book-of-clarity",
+          title: 'The Little Book of Clarity',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/little_book_of_clarity/";
+            },},{id: "books-man-39-s-search-for-meaning",
+          title: 'Man&amp;#39;s Search for Meaning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mans_search_for_meaning/";
+            },},{id: "books-mindfulness-finding-peace-in-a-frantic-world",
+          title: 'Mindfulness: Finding Peace in a Frantic World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mindfulness/";
+            },},{id: "books-mindset",
+          title: 'Mindset',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mindset/";
+            },},{id: "books-never-split-the-difference",
+          title: 'Never Split the Difference',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/never_split_the_difference/";
+            },},{id: "books-sapiens-a-brief-history-of-humankind",
+          title: 'Sapiens: A Brief History of Humankind',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sapiens/";
+            },},{id: "books-shoe-dog",
+          title: 'Shoe Dog',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/shoe_dog/";
+            },},{id: "books-siddhartha",
+          title: 'Siddhartha',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/siddhartha/";
+            },},{id: "books-the-5-am-club",
+          title: 'The 5 AM Club',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_5am_club/";
+            },},{id: "books-the-black-swan",
+          title: 'The Black Swan',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_black_swan/";
+            },},{id: "books-the-mountain-is-you",
+          title: 'The Mountain Is You',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_mountain_is_you/";
+            },},{id: "books-the-palace-of-illusions",
+          title: 'The Palace of Illusions',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_palace_of_illusions/";
+            },},{id: "books-thinking-fast-and-slow",
+          title: 'Thinking, Fast and Slow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thinking_fast_and_slow/";
+            },},{id: "books-tiny-habits",
+          title: 'Tiny Habits',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tiny_habits/";
+            },},{id: "books-tuesdays-with-morrie",
+          title: 'Tuesdays with Morrie',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tuesdays_with_morrie/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
