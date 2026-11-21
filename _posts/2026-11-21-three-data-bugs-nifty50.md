@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three data bugs that almost fooled my Nifty 50 analysis
-date: 2026-11-21 18:00:00
+date: 2026-11-21 09:00:00
 description: Before computing a single Sharpe ratio, I had to catch a fake holiday, a demerger and a split the price feed missed.
 tags: [SQL, Python, finance, data-quality]
 categories: projects
