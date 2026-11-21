@@ -22,7 +22,7 @@ latest_posts:
 
 Hi, I'm Deveshree, a Data Analyst who loves solving business problems through data. I turn raw, messy data into clear, practical insights that teams can act on.
 
-I currently work as a Data Analyst Intern at an edtech startup, where I build automated web-scraping pipelines and clean multi-source datasets for reporting. Before that I analysed financial data for 10+ early-stage startups at **Blockseed** and built 200+ ETL workflows at **Cognizant**, validating 300K+ records a day at 99.9% accuracy.
+I currently work at an edtech startup, where I build automated web-scraping pipelines and clean multi-source datasets for reporting. Before that I analysed financial data for 10+ early-stage startups at **Blockseed** and built 200+ ETL workflows at **Cognizant**, validating 300K+ records a day at 99.9% accuracy.
 
 **What I work with**
 
