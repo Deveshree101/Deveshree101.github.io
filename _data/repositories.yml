@@ -1,10 +1,10 @@
 github_users:
-  - deveshree101
+  - Deveshree101
 
 repo_description_lines_max: 2
 
 github_repos:
+  - Deveshree101/data-portfolio
   - Deveshree101/loan-default-prediction-analytics
-  - jekyll/jekyll
-  - twbs/bootstrap
-  
+  - Deveshree101/trader_performance-vs-market_sentiment
+  - Deveshree101/ai-powered-sentiment-analyser

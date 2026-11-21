@@ -3,70 +3,98 @@
   contents:
     - name: Name
       value: Deveshree Shrivastava
-    - name: Email ID
+    - name: Role
+      value: Data Analyst
+    - name: Location
+      value: Bengaluru, India
+    - name: Email
       value: <a href="mailto:deveshreeshrivastava2@gmail.com">deveshreeshrivastava2@gmail.com</a>
-    - name: Background
-      value: Data-driven professional with expertise in SQL, ETL and business intelligence. Skilled in data analysis, reporting, and dashboarding to improve processes and drive decisions.
+    - name: Summary
+      value: Data Analyst experienced across B2C startups and enterprise environments, from web scraping and cleaning large datasets (300K+ records) to building dashboards and delivering data-backed recommendations to cross-functional stakeholders. Comfortable in fast-moving startup environments with strong ownership.
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Data Analyst
-      institution: Freelance
-      year: Sept'23 - Present
+    - title: Data Analyst Intern
+      institution: Analytics Career (Pune, remote)
+      year: Apr 2026 – Present
       description:
-        - Collaborated with clients to address business challenges through data-driven solutions.
-        - Cleaned and structured raw datasets, ensuring data integrity and accuracy for analysis.
-        - Developed dashboards and conducted exploratory analysis to enhance reporting efficiency.
-    - title: Business Analyst
-      institution: <a href="https://www.blockseed.co/home">Blockseed</a>
-      year: Mar'23-Aug'23
+        - Built automated web-scraping pipelines in Python to collect and structure job-market data from external sources, helping the team analyse industry trends and inform product decisions.
+        - Cleaned and structured large, messy datasets from multiple sources into analysis-ready formats, improving data reliability for reporting.
+    - title: Business Analyst Intern
+      institution: <a href="https://www.blockseed.co/home">Blockseed Inc.</a> (New York, remote)
+      year: Mar 2023 – May 2023
       description:
-        - Analyzed financial data for 10+ startup clients, identifying key trends in revenue, expenses, and profitability, which led to actionable insights that helped optimize financial strategies.
-        - Conducted market research and competitor analysis for 5+ finance-sector startups, identifying trends and strategies that improved client market positioning and contributed to a 15% increase in competitive advantage.
-        - Supported the creation of investor-ready pitch decks, streamlining core narratives, market sizing, and financial highlights, leading to a 30% average increase in successful funding outcomes for clients within the early-stage startup sector, helping them secure necessary capital for business growth.
+        - Analysed financial data for 10+ early-stage startups using SQL and Excel, working with portfolio-team stakeholders to define data requirements and reporting needs.
+        - Designed MIS dashboards in Power BI and Excel, supporting data quality and consistency across multiple data sources and financial reporting systems.
+        - Created reports and visualisations that supported portfolio investment decisions, contributing to a 30% increase in funding outcomes.
     - title: Programmer Analyst
-      institution: <a href="https://www.cognizant.com/us/en/about-cognizant">Cognizant Technology Solutions</a>
-      year: Sept'21- Jun'22
+      institution: <a href="https://www.cognizant.com/">Cognizant Technology Solutions</a> (Pune)
+      year: Sep 2021 – Jun 2022
       description:
-        - Assisted in ETL development and debugging for data migration in a pharmaceutical cloud project, modifying and enhancing 200+ workflows to ensure efficient data transfer and processing through Informatica PowerCenter.
-        - Performed data validation of migrated data, ensuring accuracy through profiling, integrity checks, and transformation tasks on 300K+ records daily.
-        - Developed and optimized complex SQL queries for data cleansing and analysis, identifying and resolving over 200K data quality issues, ensuring 99.9% data accuracy.
-
-    - title: Data Analyst Intern 
+        - Built and optimised 200+ ETL workflows in Informatica PowerCenter for data migration in a healthcare cloud project.
+        - Validated 300K+ records daily through data profiling, integrity checks and data cleaning, achieving 99.9% data accuracy across migrated datasets.
+        - Developed SQL queries and MIS reports, identifying and resolving 200K+ data quality issues to support management decision-making.
+    - title: Data Analyst Intern
       institution: <a href="https://www.vecv.in/">Volvo Eicher Commercial Vehicles</a>
-      year: May'19- Jul'19
-      description: 
-        - Conducted a comprehensive time study of the ET35S5 transmission model to identify process bottlenecks. 
-        -  Utilized advanced data analysis techniques to enhance operational efficiency. 
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor of Technology
-      institution: <a href="https://www.sgsits.ac.in/">Shri G.S Institute of Technology and Science, Indore</a>
-      year: 2017-2021
-
+      year: May 2019 – Jul 2019
+      description:
+        - Conducted a time study of the ET35S5 transmission model to identify process bottlenecks.
+        - Used data analysis to recommend improvements in operational efficiency.
 
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://www.notion.so/resonant-helium/Predicting-High-Risk-Borrowers-28647780b38481d2b1b6df38d7086d0e">Predicting High Risk Borrowers</a>
-      year: 2015
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="/projects/1_nifty50/">Nifty 50 Risk vs Return</a>
+      year: Nov 2026
+      description:
+        - Python + SQL (SQLite window functions, CTEs) pipeline over 62,538 daily price rows, computing CAGR, volatility, Sharpe, beta and drawdown for all 50 stocks, cross-checked in pandas.
+    - title: <a href="/projects/3_trader_sentiment/">Trader Performance vs Market Sentiment</a>
+      year: Jan 2026 – Mar 2026
+      description:
+        - Cleaned and merged Hyperliquid trade data with the Fear & Greed Index in SQL (DuckDB) and Python to build daily trader metrics across 4 sentiment regimes.
+        - Showed that frequent traders increase position sizes during greed phases without improving win rates.
+    - title: <a href="/projects/2_loan_default/">Predicting High-Risk Borrowers</a>
+      year: Sep 2025 – Dec 2025
+      description:
+        - Exploratory analysis of 5,000 borrower records in Python (Pandas, NumPy) and SQLite, finding that daily-wage and low-income borrowers carry most of the default risk, and proposing a risk-scoring approach.
+    - title: <a href="/projects/4_data_cleaning/">Multi-Source Sales Data Cleaning</a>
+      year: Nov 2026
+      description:
+        - Merged 994 rows from Shopify, Amazon and wholesale into 955 validated rows with ~3,100 logged fixes.
+    - title: <a href="/projects/5_web_scraping/">Web Scraping to Clean Dataset</a>
+      year: Nov 2026
+      description:
+        - Scraped, cleaned and validated 1,000 products from 50 categories into CSV and Excel.
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Technology, Industrial Engineering
+      institution: <a href="https://www.sgsits.ac.in/">Shri G.S. Institute of Technology and Science, Indore</a>
+      year: 2017 – 2021
+      description:
+        - CGPA 7.5
+
+- title: Certification
+  type: time_table
+  contents:
+    - title: Complete Guide to Generative AI for Data Analysis and Data Science
+      institution: LinkedIn Learning
+      year: Dec 2025
 
 - title: Technical Skills
   type: nested_list
   contents:
     - title: Languages
       items:
-        - SQL, Python
-    - title: Technologies
+        - SQL (joins, subqueries, window functions, CTEs), Python (Pandas, NumPy, Matplotlib, Seaborn)
+    - title: BI & Visualisation
       items:
-        - Data Warehousing, Business Intelligence, Data Transformation
-    - title: Tools
+        - Power BI, Tableau, data visualisation, data storytelling
+    - title: Databases & Tools
       items:
-        - MySQL, Informatica PowerCenter, Power BI, Excel (Pivot Tables, VLOOKUP, Basic Macros), Jupyter Notebook
-
-
+        - MySQL, SQLite, DuckDB, Excel (pivot tables, VLOOKUP, Power Query), Informatica PowerCenter, Jupyter Notebook, Git
+    - title: Data Processes
+      items:
+        - ETL, data validation, data cleaning, data warehousing, exploratory data analysis (EDA)
