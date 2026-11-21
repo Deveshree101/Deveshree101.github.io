@@ -5,5 +5,7 @@ author: "Jack Weatherford"
 cover: assets/img/book_covers/genghis_khan.jpg
 released: 2004
 status: Finished
+genre: nonfiction
+rating: 4.04
 shelf: finished
 ---

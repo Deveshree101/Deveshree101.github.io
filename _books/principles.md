@@ -5,5 +5,7 @@ author: "Ray Dalio"
 cover: assets/img/book_covers/principles.jpg
 released: 2017
 status: Finished
+genre: business
+rating: 4.12
 shelf: finished
 ---

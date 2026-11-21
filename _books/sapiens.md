@@ -5,5 +5,7 @@ author: "Yuval Noah Harari"
 cover: assets/img/book_covers/sapiens.jpg
 released: 2011
 status: Finished
+genre: nonfiction
+rating: 4.34
 shelf: finished
 ---

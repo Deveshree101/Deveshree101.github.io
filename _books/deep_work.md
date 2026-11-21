@@ -5,5 +5,7 @@ author: "Cal Newport"
 cover: assets/img/book_covers/deep_work.jpg
 released: 2016
 status: Finished
+genre: business
+rating: 4.18
 shelf: finished
 ---

@@ -5,5 +5,7 @@ author: "Nir Eyal"
 cover: assets/img/book_covers/indistractable.jpg
 released: 2019
 status: Wishlist
+genre: nonfiction
+rating: 3.92
 shelf: wishlist
 ---

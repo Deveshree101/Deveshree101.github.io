@@ -5,5 +5,7 @@ author: "Chris Voss"
 cover: assets/img/book_covers/never_split_the_difference.jpg
 released: 2016
 status: Finished
+genre: business
+rating: 4.38
 shelf: finished
 ---

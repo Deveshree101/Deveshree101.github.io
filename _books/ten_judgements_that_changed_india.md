@@ -5,5 +5,7 @@ author: "Zia Mody"
 cover: assets/img/book_covers/ten_judgements_that_changed_india.jpg
 released: 2013
 status: Finished
+genre: nonfiction
+rating: 3.85
 shelf: finished
 ---
