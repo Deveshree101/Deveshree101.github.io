@@ -116,11 +116,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/light_on_yoga/";
-            },},{id: "books-the-little-book-of-clarity",
-          title: 'The Little Book of Clarity',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/little_book_of_clarity/";
             },},{id: "books-man-39-s-search-for-meaning",
           title: 'Man&amp;#39;s Search for Meaning',
           description: "",
@@ -181,6 +176,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_black_swan/";
+            },},{id: "books-the-book-of-clarity-building-your-dream-startup-using-first-principles-thinking",
+          title: 'The Book of Clarity: Building Your Dream Startup Using First Principles Thinking',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_book_of_clarity/";
             },},{id: "books-the-discovery-of-india",
           title: 'The Discovery of India',
           description: "",
