@@ -141,11 +141,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/siddhartha/";
-            },},{id: "books-the-5-am-club",
-          title: 'The 5 AM Club',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_5am_club/";
             },},{id: "books-the-black-swan",
           title: 'The Black Swan',
           description: "",
