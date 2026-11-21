@@ -41,7 +41,12 @@ ninja.data = [{
             window.location.href = "/blog/2026/three-data-bugs-nifty50/";
           
         },
-      },{id: "books-a-thousand-splendid-suns",
+      },{id: "books-a-short-history-of-nearly-everything",
+          title: 'A Short History of Nearly Everything',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_short_history_of_nearly_everything/";
+            },},{id: "books-a-thousand-splendid-suns",
           title: 'A Thousand Splendid Suns',
           description: "",
           section: "Books",handler: () => {
@@ -76,6 +81,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dopamine_nation/";
+            },},{id: "books-genghis-khan-and-the-making-of-the-modern-world",
+          title: 'Genghis Khan and the Making of the Modern World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/genghis_khan/";
             },},{id: "books-mindfulness-essentials-how-to-sit-how-to-walk-how-to-love",
           title: 'Mindfulness Essentials (How to Sit, How to Walk, How to Love…)',
           description: "",
@@ -101,6 +111,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/lifespan/";
+            },},{id: "books-light-on-yoga",
+          title: 'Light on Yoga',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/light_on_yoga/";
             },},{id: "books-the-little-book-of-clarity",
           title: 'The Little Book of Clarity',
           description: "",
@@ -126,6 +141,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/never_split_the_difference/";
+            },},{id: "books-on-the-shortness-of-life",
+          title: 'On the Shortness of Life',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/on_the_shortness_of_life/";
+            },},{id: "books-perfect-health",
+          title: 'Perfect Health',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/perfect_health/";
+            },},{id: "books-principles-life-and-work",
+          title: 'Principles: Life and Work',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/principles/";
             },},{id: "books-sapiens-a-brief-history-of-humankind",
           title: 'Sapiens: A Brief History of Humankind',
           description: "",
@@ -141,11 +171,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/siddhartha/";
+            },},{id: "books-10-judgements-that-changed-india",
+          title: '10 Judgements That Changed India',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ten_judgements_that_changed_india/";
             },},{id: "books-the-black-swan",
           title: 'The Black Swan',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_black_swan/";
+            },},{id: "books-the-discovery-of-india",
+          title: 'The Discovery of India',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_discovery_of_india/";
             },},{id: "books-the-mountain-is-you",
           title: 'The Mountain Is You',
           description: "",
