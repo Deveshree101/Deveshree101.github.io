@@ -10,9 +10,7 @@ rating: 4.48
 shelf: finished
 ---
 
-## Lines that stayed with me
-
-_From my notes while reading, some paraphrased from memory._
+## Lines I loved from this book
 
 - Because the generations who came before you have been pillaged…
 - We tell people to follow their dreams, but you can only dream of…
