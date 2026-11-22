@@ -2,7 +2,7 @@
 layout: book-review
 title: "Light on Prāṇāyāma"
 author: "B.K.S. Iyengar"
-cover: assets/img/book_covers/light_on_pranayama_classic.jpg
+cover: assets/img/book_covers/light_on_pranayama_text.jpg
 released: 1981
 status: Finished
 genre: nonfiction
