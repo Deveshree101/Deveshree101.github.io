@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-three-data-bugs-that-almost-fooled-my-nifty-50-analysis",
-        
-          title: "Three data bugs that almost fooled my Nifty 50 analysis",
-        
-        description: "Before computing a single Sharpe ratio, I had to catch a fake holiday, a demerger and a split the price feed missed.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/three-data-bugs-nifty50/";
-          
-        },
-      },{id: "books-a-short-history-of-nearly-everything",
+        },{id: "books-a-short-history-of-nearly-everything",
           title: 'A Short History of Nearly Everything',
           description: "",
           section: "Books",handler: () => {
