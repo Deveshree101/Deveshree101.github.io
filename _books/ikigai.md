@@ -10,7 +10,7 @@ rating: 3.89
 shelf: finished
 ---
 
-## Notes on Ikigai
+## Lines that I reread
 
 - Only staying active will make you want to live a hundred years.
 
