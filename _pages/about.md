@@ -31,4 +31,4 @@ I currently work at an edtech startup, where I build automated web-scraping pipe
 - **BI & spreadsheets:** Power BI, Tableau, Excel (pivot tables, Power Query, VLOOKUP)
 - **Data processes:** ETL, data cleaning and validation, EDA, data storytelling
 
-I'm especially interested in **fintech and finance analytics**, product metrics, and how data helps teams make better decisions. Take a look at my [projects]({{ '/projects/' | relative_url }}), or reach out by email or LinkedIn below.
+Take a look at my [projects]({{ '/projects/' | relative_url }}), or reach out by email or LinkedIn below.
